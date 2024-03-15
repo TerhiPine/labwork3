@@ -1,0 +1,7 @@
+{
+  "name": "labwork3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
